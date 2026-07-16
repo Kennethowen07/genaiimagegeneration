@@ -1,0 +1,11 @@
+torch==2.6.0
+torchvision==0.21.0
+diffusers==0.39.0
+transformers==5.13.1
+accelerate==1.14.0
+safetensors==0.8.0
+streamlit==1.59.2
+streamlit-drawable-canvas==0.8.0
+pillow==12.2.0
+numpy==2.4.4
+pyngrok==8.1.2
